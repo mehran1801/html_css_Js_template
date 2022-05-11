@@ -7,13 +7,17 @@
 }
 body{
 font: 20px 'Montserrat', sans-serif;
-}
-.container{
-border:2px solid green;
 display:flex;
 justify-content: center;
 align-items: center;
 height:100vh;
 width:100vw;
+}
+
+.container{
+background: #fcfcfc;
+padding:10px;
+border-radius: 10px;
+box-shadow: 2px 5px 10px #34495e;
 }
 
