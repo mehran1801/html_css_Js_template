@@ -8,3 +8,12 @@
 body{
 font: 20px 'Montserrat', sans-serif;
 }
+.container{
+border:2px solid green;
+display:flex;
+justify-content: center;
+align-items: center;
+height:100vh;
+width:100vw;
+}
+
